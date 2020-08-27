@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "lobster";
+	src: url(../fonts/Lobster-Regular.ttf)
+}
+
+@font-face {
+	font-family: "PTSerif";
+	src: url("../fonts/PTSerif-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Acme";
+	src: url("../fonts/Acme-Regular.ttf");
+}
